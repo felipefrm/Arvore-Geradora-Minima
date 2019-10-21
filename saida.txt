@@ -1,0 +1,60 @@
+VERTICES: 10 / ARESTAS: 45
+Tempo de execução Kruskal: 0.0008276770004158607s
+Tempo de execução Prim:    0.0005689200006600004s
+
+VERTICES: 10 / ARESTAS: 22
+Tempo de execução Kruskal: 0.00031292400126403663s
+Tempo de execução Prim:    0.00022552300106326584s
+
+VERTICES: 10 / ARESTAS: 11
+Tempo de execução Kruskal: 0.0001854210004239576s
+Tempo de execução Prim:    0.00011064000136684626s
+
+VERTICES: 25 / ARESTAS: 300
+Tempo de execução Kruskal: 0.0008758399999351241s
+Tempo de execução Prim:    0.0007456769999407697s
+
+VERTICES: 25 / ARESTAS: 150
+Tempo de execução Kruskal: 0.0007980390000739135s
+Tempo de execução Prim:    0.0008087930000328925s
+
+VERTICES: 25 / ARESTAS: 75
+Tempo de execução Kruskal: 0.0007716349991824245s
+Tempo de execução Prim:    0.0006850259997008834s
+
+VERTICES: 50 / ARESTAS: 1225
+Tempo de execução Kruskal: 0.009831985998971504s
+Tempo de execução Prim:    0.003925135999452323s
+
+VERTICES: 50 / ARESTAS: 612
+Tempo de execução Kruskal: 0.00819752899951709s
+Tempo de execução Prim:    0.006412979999367963s
+
+VERTICES: 50 / ARESTAS: 306
+Tempo de execução Kruskal: 0.0017434979999961797s
+Tempo de execução Prim:    0.0010239639996143524s
+
+VERTICES: 75 / ARESTAS: 2775
+Tempo de execução Kruskal: 0.004969846000676625s
+Tempo de execução Prim:    0.004755035000926s
+
+VERTICES: 75 / ARESTAS: 1397
+Tempo de execução Kruskal: 0.003170781999870087s
+Tempo de execução Prim:    0.0032073969996417873s
+
+VERTICES: 75 / ARESTAS: 693
+Tempo de execução Kruskal: 0.0018588950006233063s
+Tempo de execução Prim:    0.001835892000599415s
+
+VERTICES: 100 / ARESTAS: 4950
+Tempo de execução Kruskal: 0.008454195000012987s
+Tempo de execução Prim:    0.008353105000423966s
+
+VERTICES: 100 / ARESTAS: 2475
+Tempo de execução Kruskal: 0.005314022999300505s
+Tempo de execução Prim:    0.005124131999764359s
+
+VERTICES: 100 / ARESTAS: 1237
+Tempo de execução Kruskal: 0.0030723029994987883s
+Tempo de execução Prim:    0.0028885749998153187s
+
